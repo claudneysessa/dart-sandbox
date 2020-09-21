@@ -1,6 +1,7 @@
 # playground
 
 A new Flutter project.
+<img src="https://github.com/claudneysessa/dart-sandbox/blob/master/assets/dart-logo.jpg?raw=true"></img>
 
 ## Getting Started
 
